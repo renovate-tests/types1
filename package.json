@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@types/webpack": "4.4.31"
+    },
+    "dependencies": {
+      "webpack": "^4.31.0"
+      }
+   },
+   "extends": ["github>sourcegraph/renovate-config"]
+}
