@@ -6,5 +6,7 @@
       "webpack": "^4.31.0"
       }
    },
+   "renovate": {
    "extends": ["github>sourcegraph/renovate-config"]
+   }
 }
